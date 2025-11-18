@@ -1,0 +1,4 @@
+Sepsis Bundle Protocol (Demo)
+- Obtain blood cultures before antibiotics.
+- Start broad-spectrum antibiotics within 1 hour.
+- Begin fluid resuscitation and monitor lactate.

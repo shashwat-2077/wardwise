@@ -1,0 +1,4 @@
+Heart Failure Management Protocol (Demo)
+- Monitor weight and fluid balance daily.
+- Adjust diuretics based on symptoms and labs.
+- Check renal function and electrolytes regularly.
